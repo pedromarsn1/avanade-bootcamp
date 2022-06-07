@@ -1,70 +1,70 @@
 ETAPA 1
 
 Pensamento Computacional: 
-matemática -> leitura -> escrita
+matemÃ¡tica -> leitura -> escrita
 habilidade generalista
 
 Pilares: 
-Decomposição -> pegar um problema e segmenta-lo encontrando problemas menores e resolvê-los.
+DecomposiÃ§Ã£o -> pegar um problema e segmenta-lo encontrando problemas menores e resolvÃª-los.
 
-Reconhecimento de padrões -> identificar similaridades e tendencias entre contextos iguais ou destintos.
+Reconhecimento de padrÃµes -> identificar similaridades e tendencias entre contextos iguais ou destintos.
 
-Abstração -> pega algo específico e torna ele algo geral. Generaliza uma informação para ser usado em mais áreas possíveis.
+AbstraÃ§Ã£o -> pega algo especÃ­fico e torna ele algo geral. Generaliza uma informaÃ§Ã£o para ser usado em mais Ã¡reas possÃ­veis.
 
-Design de Algorítmos -> automatizar, define o passo a passo a solução do problema.
+Design de AlgorÃ­tmos -> automatizar, define o passo a passo a soluÃ§Ã£o do problema.
 
 
 
-É um processo contínuo.
-Defiir solução.
-Testar solução.
-Aperfeiçoamento da solução encontrada.
+Ã‰ um processo contÃ­nuo.
+Defiir soluÃ§Ã£o.
+Testar soluÃ§Ã£o.
+AperfeiÃ§oamento da soluÃ§Ã£o encontrada.
 
-refinamento -> teste -> análise
+refinamento -> teste -> anÃ¡lise
 
 
 ETAPA 2
 
-Raciocínio Lógico e aperfeiçoamento -> atreladas ao tipo de pensamento para lidar com resolução de problemas
+RaciocÃ­nio LÃ³gico e aperfeiÃ§oamento -> atreladas ao tipo de pensamento para lidar com resoluÃ§Ã£o de problemas
 
-Raciocínio Lógico -> é uma forma de pensamento estruturado que permite encontrar a conclusão ou determinar a resolução de um problema. É uma habilidade.
+RaciocÃ­nio LÃ³gico -> Ã© uma forma de pensamento estruturado que permite encontrar a conclusÃ£o ou determinar a resoluÃ§Ã£o de um problema. Ã‰ uma habilidade.
 
--> indução : vem a partir de um fenomeno observado podendo criar leis e teorias a partir de uma observação 
+-> induÃ§Ã£o : vem a partir de um fenomeno observado podendo criar leis e teorias a partir de uma observaÃ§Ã£o 
 
--> dedução : trabalho inverso da indução, a parteir de leis e teorias você prevê e explica os fenômenos
+-> deduÃ§Ã£o : trabalho inverso da induÃ§Ã£o, a parteir de leis e teorias vocÃª prevÃª e explica os fenÃ´menos
 
--> abdução : a partir de algo observado é possível concluir algo  sobre o que ta acontecendo. Exemplo: a grama está molhado, logo deve ter chovido. Não necessariamente está certo. A grama pode estar molhada por outro motivo.
+-> abduÃ§Ã£o : a partir de algo observado Ã© possÃ­vel concluir algo  sobre o que ta acontecendo. Exemplo: a grama estÃ¡ molhado, logo deve ter chovido. NÃ£o necessariamente estÃ¡ certo. A grama pode estar molhada por outro motivo.
 
 
-inferencia -> sintética(abdução e indução) ou analítica(dedução)
+inferencia -> sintÃ©tica(abduÃ§Ã£o e induÃ§Ã£o) ou analÃ­tica(deduÃ§Ã£o)
 
-Aperfeiçoamento -> melhoramento, aprimoramento, refinamento, ato de aperfeiçoar: a partir de uma solução, determinar  pontos de melhora e refinamento.
+AperfeiÃ§oamento -> melhoramento, aprimoramento, refinamento, ato de aperfeiÃ§oar: a partir de uma soluÃ§Ã£o, determinar  pontos de melhora e refinamento.
 
-Ato de aperfeiçoar -> encontrar solução eficiente, otimizar processos, simplificar linhas de códigos, funções bem definidas.
+Ato de aperfeiÃ§oar -> encontrar soluÃ§Ã£o eficiente, otimizar processos, simplificar linhas de cÃ³digos, funÃ§Ãµes bem definidas.
 
 
 ETAPA 3 
 
-PILARES: DECOMPOSIÇÃO
+PILARES: DECOMPOSIÃ‡ÃƒO
 
-dado um problema complexo, dividí-lo em problemas menores resolvíveis.
+dado um problema complexo, dividÃ­-lo em problemas menores resolvÃ­veis.
 
-Análise: processo de quebra e determinar parte menores gerenciáveis.
+AnÃ¡lise: processo de quebra e determinar parte menores gerenciÃ¡veis.
 
 Estudar, explorar o contexto tentando decompor os problemas de forma a realizar um exame bem detalhado do que precisa ser feito observando as partes principais
 
-Síntese: combinar elementos recompondo o problema original
+SÃ­ntese: combinar elementos recompondo o problema original
 
-reunir elementos distintos de um unico grande elemento de um problema dentyrto de um processo de reconstrução juntando tudo e dando corencia ao processo de reconstrução
+reunir elementos distintos de um unico grande elemento de um problema dentyrto de um processo de reconstruÃ§Ã£o juntando tudo e dando corencia ao processo de reconstruÃ§Ã£o
 
-ordem de execução de tarefas menores: SEQUENCIAL OU PARALELO
+ordem de execuÃ§Ã£o de tarefas menores: SEQUENCIAL OU PARALELO
 
-Sequencial -> provavelmente haverá uma dependencia entre tarefas. Em fila.
+Sequencial -> provavelmente haverÃ¡ uma dependencia entre tarefas. Em fila.
 
 Paralelo -> ganha em eficiencia e em tempo, podem ser isoladas concomitantemente.
 
 
-Há maneira distintas de decompor o mesmo problema.
+HÃ¡ maneira distintas de decompor o mesmo problema.
 
 Como decompor? 
 
@@ -75,71 +75,71 @@ Como decompor?
 
 ETAPA 4 
 
-PILAR: PADRÕES
+PILAR: PADRÃ•ES
 
-Modelo base, etrutura ivariantes, repetição
+Modelo base, etrutura ivariantes, repetiÃ§Ã£o
 
-Ex: compressão de dados por reconhecimento de padrões
+Ex: compressÃ£o de dados por reconhecimento de padrÃµes
 
-Por que determinar padrões? 
-- generaliza com o objetivo de resolução para problemas diferentes.
+Por que determinar padrÃµes? 
+- generaliza com o objetivo de resoluÃ§Ã£o para problemas diferentes.
 
-Podemos fazer através de classes e categorias
-Classes e categorias-> dependem do domínio e tipo de média
+Podemos fazer atravÃ©s de classes e categorias
+Classes e categorias-> dependem do domÃ­nio e tipo de mÃ©dia
 Grau de similaridade
 Grupos conhecidos X Objeto desconhecido
 
-Computador observa padrões por comparação: representação de atributos, aprendizado relacionado ao conceito associado ao objeto, armazena os dados, regras de decisão.
+Computador observa padrÃµes por comparaÃ§Ã£o: representaÃ§Ã£o de atributos, aprendizado relacionado ao conceito associado ao objeto, armazena os dados, regras de decisÃ£o.
 
 Resumo:
-Extrair característica para classificação de dados.
-Podemos ter diferentes métodos para aplicar em diferentes contextos.
-APLICAÇÕES -> classificação de dados, reconhecimento de imagem, Reconhecimento de fala, Análise de cenas, classificação de documentos
+Extrair caracterÃ­stica para classificaÃ§Ã£o de dados.
+Podemos ter diferentes mÃ©todos para aplicar em diferentes contextos.
+APLICAÃ‡Ã•ES -> classificaÃ§Ã£o de dados, reconhecimento de imagem, Reconhecimento de fala, AnÃ¡lise de cenas, classificaÃ§Ã£o de documentos
 
 
 ETAPA 5
 
-PILAR: ABSTRAÇÃO
+PILAR: ABSTRAÃ‡ÃƒO
 
-Isolar de uma objeto da realidade e deixar ele geral. Tornar deral, mais amplo. Extrair é generalizar.
+Isolar de uma objeto da realidade e deixar ele geral. Tornar deral, mais amplo. Extrair Ã© generalizar.
 
-Generalizar -> consiste em reunir uma classe geral, um conjunto de seres ou fenômenos similares.
+Generalizar -> consiste em reunir uma classe geral, um conjunto de seres ou fenÃ´menos similares.
 
 Como classificar dados?
--> características
+-> caracterÃ­sticas
 -> pontos essenciais
 -> generalizar X detalhar
 
-Representação:
+RepresentaÃ§Ã£o:
 
 identificar pontos essenciais e tirar os detalhes.
 
 
 ETAPA 6:
-PILAR: ALGORÍTMOS
+PILAR: ALGORÃTMOS
 
-São instruções que dão funcionalidades ao computador.
-Step-by-step -> passoas que vão fazer o computador trabalahar
-O algorítmo precisa ser intendível pelo humano e pela máquina.
+SÃ£o instruÃ§Ãµes que dÃ£o funcionalidades ao computador.
+Step-by-step -> passoas que vÃ£o fazer o computador trabalahar
+O algorÃ­tmo precisa ser intendÃ­vel pelo humano e pela mÃ¡quina.
 
-Análise: precisamos definir os dados de entrada e de saída.
+AnÃ¡lise: precisamos definir os dados de entrada e de saÃ­da.
 Descrevo o problema por ferramentas, narrativas, fluxogramas...
-conjunto de operações de finitas ações.
+conjunto de operaÃ§Ãµes de finitas aÃ§Ãµes.
 
-Como criar um algorítmo?
+Como criar um algorÃ­tmo?
 Quais o pontos que precisam ser resolvidos
 Dados fornecidos que precisa ser feito
 Definir como vai ser realizado (processamento)
-Definir os dados de saída
-Utilizar um método de contrução e refinanmento
-Testar e diagnosticar p ver se funciona da forma que é preciso funcinar.
+Definir os dados de saÃ­da
+Utilizar um mÃ©todo de contruÃ§Ã£o e refinanmento
+Testar e diagnosticar p ver se funciona da forma que Ã© preciso funcinar.
 
 TIPOS:
-Narrativa: utiliza a linguagem natural, diversas interpretações dependendo de como foi escrito.
+Narrativa: utiliza a linguagem natural, diversas interpretaÃ§Ãµes dependendo de como foi escrito.
 
-Fluxograma: utilização de símbolos pré-definidos e é preciso conhecimento prévio dos simbolos e estruturas.
+Fluxograma: utilizaÃ§Ã£o de sÃ­mbolos prÃ©-definidos e Ã© preciso conhecimento prÃ©vio dos simbolos e estruturas.
 
-Pseudocódigo: passos a serem seguidos, não é uma linguagm de programação mesmo.
+PseudocÃ³digo: passos a serem seguidos, nÃ£o Ã© uma linguagm de programaÃ§Ã£o mesmo.
 
 
 ETAPA 7
@@ -157,8 +157,8 @@ problema-> sobrevivencia : agua, comida, sobrevivencia
 ETAPA 8:
 CASO CONCEITUAL : SOMA DO INTERVALO
 
-decomposição
-padrão
+decomposiÃ§Ã£o
+padrÃ£o
 
 [x,y]
 y-1) + (x+1)= resultado parcial
@@ -170,38 +170,38 @@ resultado parcial * total = resultado
 
 AULA 2
 
-Lógica de Programação:
-um processo de pensamento atrelado ao conceito de algoritmos e resolução de problemas
+LÃ³gica de ProgramaÃ§Ã£o:
+um processo de pensamento atrelado ao conceito de algoritmos e resoluÃ§Ã£o de problemas
 
-O que é lógica?
-Existe para resolução de problemas.
-Trata das formas de pensamento em geral e das operações individuais que visdam à determinação do que é verdadeiro ou não.
-Organização e planejamento das instruções assertivas em um algoritmo a fim de viabilizar a implantação de um programa.
+O que Ã© lÃ³gica?
+Existe para resoluÃ§Ã£o de problemas.
+Trata das formas de pensamento em geral e das operaÃ§Ãµes individuais que visdam Ã  determinaÃ§Ã£o do que Ã© verdadeiro ou nÃ£o.
+OrganizaÃ§Ã£o e planejamento das instruÃ§Ãµes assertivas em um algoritmo a fim de viabilizar a implantaÃ§Ã£o de um programa.
 
 
-Tecnicas de Lógica de Programação:
+Tecnicas de LÃ³gica de ProgramaÃ§Ã£o:
 
-Linear -> modelo tradicional. Execução sequenciada de resolução de problemas. Recursos limitados. Unica dimensão.
+Linear -> modelo tradicional. ExecuÃ§Ã£o sequenciada de resoluÃ§Ã£o de problemas. Recursos limitados. Unica dimensÃ£o.
 
-Estruturada -> organização, disposição e ordem dos elementos essenciais que compõem um corpo(concreto ou abstrato). Escrita - Entendimento - Validação - Manutenção
+Estruturada -> organizaÃ§Ã£o, disposiÃ§Ã£o e ordem dos elementos essenciais que compÃµem um corpo(concreto ou abstrato). Escrita - Entendimento - ValidaÃ§Ã£o - ManutenÃ§Ã£o
 
-Modular -> partes independentes controladas por um conjunto de regras. Dados de entrada - processo de transformação - dados de saída.
+Modular -> partes independentes controladas por um conjunto de regras. Dados de entrada - processo de transformaÃ§Ã£o - dados de saÃ­da.
 
 
 AULA 3:
-FUNDAMENTOS DE ALGORÍTMOS
+FUNDAMENTOS DE ALGORÃTMOS
 
-Qual a função do computador?
-processa dados e instruções que são passados para ele.
+Qual a funÃ§Ã£o do computador?
+processa dados e instruÃ§Ãµes que sÃ£o passados para ele.
 
 
 Tipo de dados:
-Numéricos - reais(possuem casas decimais) e inteiros(sem casas decimais)
-Caracteres: símbolos que podem ser convertidos para um valor numérico
-Lógico: verdadeiro(1) e falso(0)
+NumÃ©ricos - reais(possuem casas decimais) e inteiros(sem casas decimais)
+Caracteres: sÃ­mbolos que podem ser convertidos para um valor numÃ©rico
+LÃ³gico: verdadeiro(1) e falso(0)
 
 
-Variável: é um tipo de estrutura mutável que pode ser mudado o seu valor, pode ser sobrecria, pode mudar seu vcalo, instável.
+VariÃ¡vel: Ã© um tipo de estrutura mutÃ¡vel que pode ser mudado o seu valor, pode ser sobrecria, pode mudar seu vcalo, instÃ¡vel.
 Pode assumir qualquer um dos valores de um determinado conjunto de valores.
 
 a-b=d a+b=c
@@ -209,59 +209,59 @@ a-b=d a+b=c
 Ela vai indentificar determinado dado e seu tipo.
 
 
-Constante: inalterável, que não muda, aquilo que é fixo ou estável, invariável.
+Constante: inalterÃ¡vel, que nÃ£o muda, aquilo que Ã© fixo ou estÃ¡vel, invariÃ¡vel.
 
 
-INSTRUÇÕES PRIMITIVAS:
-Vão determinar as ações emcima dos nossos dados, geralmente calculos matemáticos.
+INSTRUÃ‡Ã•ES PRIMITIVAS:
+VÃ£o determinar as aÃ§Ãµes emcima dos nossos dados, geralmente calculos matemÃ¡ticos.
 
 + - * / 
 
-Instruções são linguagem de palavras-chave de uma determianda programação que tem por finalidade comandar um computador que irá tratar esses dados.
+InstruÃ§Ãµes sÃ£o linguagem de palavras-chave de uma determianda programaÃ§Ã£o que tem por finalidade comandar um computador que irÃ¡ tratar esses dados.
 
 CONDICIONAIS E OPERADORES:
 
-Condição ->  estado de uma pessoa ou coisa.
-Condicional ->  expressão de condição
+CondiÃ§Ã£o ->  estado de uma pessoa ou coisa.
+Condicional ->  expressÃ£o de condiÃ§Ã£o
 
 operadores relacionais: >, <, <=, >=, ==, !=
 
-condicional simpes(se), composta(se, senão), encadeado(se, se, se, senão)
+condicional simpes(se), composta(se, senÃ£o), encadeado(se, se, se, senÃ£o)
 
-Operadores Lógicos:
-e &&, ou ||, não !  
+Operadores LÃ³gicos:
+e &&, ou ||, nÃ£o !  
 
 
 
 ETAPA 4
-ESTRUTURAS DE REPETIÇÃO:
+ESTRUTURAS DE REPETIÃ‡ÃƒO:
 
-É usado para quando uma instrução precisa ser repetida durante um código seguido por parâmetro, contendo condições de parada para que não seja um loop infinito.
+Ã‰ usado para quando uma instruÃ§Ã£o precisa ser repetida durante um cÃ³digo seguido por parÃ¢metro, contendo condiÃ§Ãµes de parada para que nÃ£o seja um loop infinito.
 
-Enquanto: início, numeros de repetições indefinidas
+Enquanto: inÃ­cio, numeros de repetiÃ§Ãµes indefinidas
 Ex: enquanto grama tiver alta passe o cortador de grama.
 
 grama = falso
  enquanto(gramma==falso){
-instrução de cortar grama
+instruÃ§Ã£o de cortar grama
 atualiza grama
 }fim
 
-Repita: final, numero de repetições indefinidas
-ex: Repita até encontrar artigo
+Repita: final, numero de repetiÃ§Ãµes indefinidas
+ex: Repita atÃ© encontrar artigo
 
-Para..de..até: início, numero de repetições definidas
-ex: vá de um até 10 somando mais um.
+Para..de..atÃ©: inÃ­cio, numero de repetiÃ§Ãµes definidas
+ex: vÃ¡ de um atÃ© 10 somando mais um.
 
-É possível usar um laço de repetição dentro de outra estrura de condição.
+Ã‰ possÃ­vel usar um laÃ§o de repetiÃ§Ã£o dentro de outra estrura de condiÃ§Ã£o.
 
 
 ETAPA 5
 VETORES E MATRIZES:
-Um vetor é caracterizado dimensionada com tamanho pré-fixado.
+Um vetor Ã© caracterizado dimensionada com tamanho prÃ©-fixado.
 Pode ser um container, matriz unidimensional.
 
-Matriz é uma tablea organizada em linhas de colunas nXm (n vertical e m horizontal)
+Matriz Ã© uma tablea organizada em linhas de colunas nXm (n vertical e m horizontal)
 
 
 notas11=10
@@ -282,155 +282,107 @@ notas_alunos=[10,5,7,8]
 
 
 ETAPA 6
-FUNÇÕES:
-subalgoritmo,metodo, sub-função
-Similar ao conceito de função matemática.
+FUNÃ‡Ã•ES:
+subalgoritmo,metodo, sub-funÃ§Ã£o
+Similar ao conceito de funÃ§Ã£o matemÃ¡tica.
 A partir de um argumento que recebe ela retorna um valor. 
-São blocos de instruções que realizam tarefas específicas.
-Origina-se da decomposição do problema, modularização.
+SÃ£o blocos de instruÃ§Ãµes que realizam tarefas especÃ­ficas.
+Origina-se da decomposiÃ§Ã£o do problema, modularizaÃ§Ã£o.
 
-Código mais claro e é possível usar varias vezes de maneiras diferentes durante o programa.
-Identificados por nomes e parâmetros(assinatura da função)
+CÃ³digo mais claro e Ã© possÃ­vel usar varias vezes de maneiras diferentes durante o programa.
+Identificados por nomes e parÃ¢metros(assinatura da funÃ§Ã£o)
 
-Definição
+DefiniÃ§Ã£o
 Nome
-Invocação
-Variável local ->  destruídas ao encerrar a função
+InvocaÃ§Ã£o
+VariÃ¡vel local ->  destruÃ­das ao encerrar a funÃ§Ã£o
 
 
 ETAPA 7
-INSTRUÇÕES DE ENTRADA/SAÍDA
+INSTRUÃ‡Ã•ES DE ENTRADA/SAÃDA
 
-Entrada: Consiste na inserção e recebimento de dados do mundo real por meio de alguma interface. 
+Entrada: Consiste na inserÃ§Ã£o e recebimento de dados do mundo real por meio de alguma interface. 
 
-Saída: Consiste na impressão de dados do mundo abstrato, digital por meio de ação de alguma interface
+SaÃ­da: Consiste na impressÃ£o de dados do mundo abstrato, digital por meio de aÃ§Ã£o de alguma interface
 
-Existem dois tipos de saída: programada(pode ser condicional ou não) e por interrupção(definida pelos periféricos)
+Existem dois tipos de saÃ­da: programada(pode ser condicional ou nÃ£o) e por interrupÃ§Ã£o(definida pelos perifÃ©ricos)
 
 
 
 AULA 4
 
-LINGUAGEM DE PROGRAMAÇÃO
+LINGUAGEM DE PROGRAMAÃ‡ÃƒO
 
-Assembly - primeira linguagem de máquina
+Assembly - primeira linguagem de mÃ¡quina
 primeiras linguagens anos 50 : cobol, fortran
 entre 60 e 70: C, prolog
 
 
 COMO O COMPUTADOR ENTENDE A LINGUAGEM?
 
-O codigo fonte é interpretado pela máquina, è um amontoado de palavras senão for possível que o computador entenda.
+O codigo fonte Ã© interpretado pela mÃ¡quina, Ã¨ um amontoado de palavras senÃ£o for possÃ­vel que o computador entenda.
 
-Copilador: executa a análise do programa e traduz o programa de alto nível e leva a um código de baixo nível. 
+Copilador: executa a anÃ¡lise do programa e traduz o programa de alto nÃ­vel e leva a um cÃ³digo de baixo nÃ­vel. 
 
-Tradução/Compilação: geração do programa objeto e executa o programa objeto (mais rápida e gera problemas menores)
+TraduÃ§Ã£o/CompilaÃ§Ã£o: geraÃ§Ã£o do programa objeto e executa o programa objeto (mais rÃ¡pida e gera problemas menores)
 
-Interpretação: programa fonte é executado diretamente (mais lento, mais flexibilidade)
+InterpretaÃ§Ã£o: programa fonte Ã© executado diretamente (mais lento, mais flexibilidade)
 
-CARACTERÍSTICAS DE UM PROGRAMA:
+CARACTERÃSTICAS DE UM PROGRAMA:
 
 Legibilidade:
-Facilidade de leitura, coerÊncia nas instruções, compreensçao, definição adequada das estruturas.
+Facilidade de leitura, coerÃŠncia nas instruÃ§Ãµes, compreensÃ§ao, definiÃ§Ã£o adequada das estruturas.
 
 Redigibilidade:
-Facilidade de escrita de código, coerência nas instruções, simplicidade da escrita, suporte à abstração, reuso do código, expressividade.
+Facilidade de escrita de cÃ³digo, coerÃªncia nas instruÃ§Ãµes, simplicidade da escrita, suporte Ã  abstraÃ§Ã£o, reuso do cÃ³digo, expressividade.
 
 Confiabilidade:
-Faz o que foi programado para fazer, verificações de tipos, tratações de erros, uso de ponteiros, compatibilidade entre compiladores.
+Faz o que foi programado para fazer, verificaÃ§Ãµes de tipos, trataÃ§Ãµes de erros, uso de ponteiros, compatibilidade entre compiladores.
 
 Custo:
-análise de impacto, treinamento, codificação, compilação, execução, infra-estrutura.
+anÃ¡lise de impacto, treinamento, codificaÃ§Ã£o, compilaÃ§Ã£o, execuÃ§Ã£o, infra-estrutura.
 
-Atualizações, uso para IA, disponibilidade de ferramentas, comunidade ativa, adoção pelo mercado.
+AtualizaÃ§Ãµes, uso para IA, disponibilidade de ferramentas, comunidade ativa, adoÃ§Ã£o pelo mercado.
 
 
-ANÁLISES DE CÓDIGO:
+ANÃLISES DE CÃ“DIGO:
 
-Léxica: 
-Particionar(agrupar os tokens), classificar(identificadores, palavras reservadas, números, strings) e eliminar(caracteres de espaçoes em branco, comentários).
+LÃ©xica: 
+Particionar(agrupar os tokens), classificar(identificadores, palavras reservadas, nÃºmeros, strings) e eliminar(caracteres de espaÃ§oes em branco, comentÃ¡rios).
 
 Sintaxe:
-Componente que interliga os constituintes da sentença atribuindo-lhes uma estrutura. Depende da linguangem de programação utilizada.
+Componente que interliga os constituintes da sentenÃ§a atribuindo-lhes uma estrutura. Depende da linguangem de programaÃ§Ã£o utilizada.
 
-Semântica:
-È o estudo do significado. Incide sobre a relação entre os significantes: palavras, frases, sinais e símbolos. Lógica do programa.
+SemÃ¢ntica:
+Ãˆ o estudo do significado. Incide sobre a relaÃ§Ã£o entre os significantes: palavras, frases, sinais e sÃ­mbolos. LÃ³gica do programa.
 
-PARADIGMAS DE PROGRAMAÇÃO:
+PARADIGMAS DE PROGRAMAÃ‡ÃƒO:
 
-O que é um paradigma?
-Forma de resolução de problemas com diretrizes e limitações especpificas de cada aradigma.
+O que Ã© um paradigma?
+Forma de resoluÃ§Ã£o de problemas com diretrizes e limitaÃ§Ãµes especpificas de cada aradigma.
 
 Procedural: chamadas sucessivas e procedimentos separados
 
-Funcionais: intruções baseadas emm funções
+Funcionais: intruÃ§Ãµes baseadas emm funÃ§Ãµes
 
 Destribuida: Executadas de forma independente
 
-Estruturado: Estrutura de blocos alinhados. SequÊncia, decisão interação, executados em sequências. Teste lógico, finções, laços...
-USADO:problemas simples e diretos, aprender programação (Linguagem C)
+Estruturado: Estrutura de blocos alinhados. SequÃŠncia, decisÃ£o interaÃ§Ã£o, executados em sequÃªncias. Teste lÃ³gico, finÃ§Ãµes, laÃ§os...
+USADO:problemas simples e diretos, aprender programaÃ§Ã£o (Linguagem C)
 
-POO: Análogo ao mundo real, desea a programa em relação aos objetos e suas iterações.
-Um objeto é descrito por características específicas, comportamentos e estado.
-Possibilida o reuso do código.
+POO: AnÃ¡logo ao mundo real, desea a programa em relaÃ§Ã£o aos objetos e suas iteraÃ§Ãµes.
+Um objeto Ã© descrito por caracterÃ­sticas especÃ­ficas, comportamentos e estado.
+Possibilida o reuso do cÃ³digo.
 
 CANETA-> 
 O que eu tenho? (atributos)
  cor, modelo, tampo, corpo, ponta.
 
-O que sou capaz de fazer? (métodos)
+O que sou capaz de fazer? (mÃ©todos)
 escrever, desenhar, pintar, riscar, destampar
 
 Como uso? (estados)
 Tampada, destampada, em uso
 
 
-HERANÇA: classe filha herda carcterísta de uma classe mãe, mas pode ter atributos e métodos dela, pode sobrescrever métodos herdados.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+HERANÃ‡A: classe filha herda carcterÃ­sta de uma classe mÃ£e, mas pode ter atributos e mÃ©todos dela, pode sobrescrever mÃ©todos herdados.
