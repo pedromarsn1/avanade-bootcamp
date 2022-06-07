@@ -1,0 +1,436 @@
+ETAPA 1
+
+Pensamento Computacional: 
+matemática -> leitura -> escrita
+habilidade generalista
+
+Pilares: 
+Decomposição -> pegar um problema e segmenta-lo encontrando problemas menores e resolvê-los.
+
+Reconhecimento de padrões -> identificar similaridades e tendencias entre contextos iguais ou destintos.
+
+Abstração -> pega algo específico e torna ele algo geral. Generaliza uma informação para ser usado em mais áreas possíveis.
+
+Design de Algorítmos -> automatizar, define o passo a passo a solução do problema.
+
+
+
+É um processo contínuo.
+Defiir solução.
+Testar solução.
+Aperfeiçoamento da solução encontrada.
+
+refinamento -> teste -> análise
+
+
+ETAPA 2
+
+Raciocínio Lógico e aperfeiçoamento -> atreladas ao tipo de pensamento para lidar com resolução de problemas
+
+Raciocínio Lógico -> é uma forma de pensamento estruturado que permite encontrar a conclusão ou determinar a resolução de um problema. É uma habilidade.
+
+-> indução : vem a partir de um fenomeno observado podendo criar leis e teorias a partir de uma observação 
+
+-> dedução : trabalho inverso da indução, a parteir de leis e teorias você prevê e explica os fenômenos
+
+-> abdução : a partir de algo observado é possível concluir algo  sobre o que ta acontecendo. Exemplo: a grama está molhado, logo deve ter chovido. Não necessariamente está certo. A grama pode estar molhada por outro motivo.
+
+
+inferencia -> sintética(abdução e indução) ou analítica(dedução)
+
+Aperfeiçoamento -> melhoramento, aprimoramento, refinamento, ato de aperfeiçoar: a partir de uma solução, determinar  pontos de melhora e refinamento.
+
+Ato de aperfeiçoar -> encontrar solução eficiente, otimizar processos, simplificar linhas de códigos, funções bem definidas.
+
+
+ETAPA 3 
+
+PILARES: DECOMPOSIÇÃO
+
+dado um problema complexo, dividí-lo em problemas menores resolvíveis.
+
+Análise: processo de quebra e determinar parte menores gerenciáveis.
+
+Estudar, explorar o contexto tentando decompor os problemas de forma a realizar um exame bem detalhado do que precisa ser feito observando as partes principais
+
+Síntese: combinar elementos recompondo o problema original
+
+reunir elementos distintos de um unico grande elemento de um problema dentyrto de um processo de reconstrução juntando tudo e dando corencia ao processo de reconstrução
+
+ordem de execução de tarefas menores: SEQUENCIAL OU PARALELO
+
+Sequencial -> provavelmente haverá uma dependencia entre tarefas. Em fila.
+
+Paralelo -> ganha em eficiencia e em tempo, podem ser isoladas concomitantemente.
+
+
+Há maneira distintas de decompor o mesmo problema.
+
+Como decompor? 
+
+1 - identifica, coleta os dados
+2 - agrega os dados
+3 - entrega a funcionalidade
+
+
+ETAPA 4 
+
+PILAR: PADRÕES
+
+Modelo base, etrutura ivariantes, repetição
+
+Ex: compressão de dados por reconhecimento de padrões
+
+Por que determinar padrões? 
+- generaliza com o objetivo de resolução para problemas diferentes.
+
+Podemos fazer através de classes e categorias
+Classes e categorias-> dependem do domínio e tipo de média
+Grau de similaridade
+Grupos conhecidos X Objeto desconhecido
+
+Computador observa padrões por comparação: representação de atributos, aprendizado relacionado ao conceito associado ao objeto, armazena os dados, regras de decisão.
+
+Resumo:
+Extrair característica para classificação de dados.
+Podemos ter diferentes métodos para aplicar em diferentes contextos.
+APLICAÇÕES -> classificação de dados, reconhecimento de imagem, Reconhecimento de fala, Análise de cenas, classificação de documentos
+
+
+ETAPA 5
+
+PILAR: ABSTRAÇÃO
+
+Isolar de uma objeto da realidade e deixar ele geral. Tornar deral, mais amplo. Extrair é generalizar.
+
+Generalizar -> consiste em reunir uma classe geral, um conjunto de seres ou fenômenos similares.
+
+Como classificar dados?
+-> características
+-> pontos essenciais
+-> generalizar X detalhar
+
+Representação:
+
+identificar pontos essenciais e tirar os detalhes.
+
+
+ETAPA 6:
+PILAR: ALGORÍTMOS
+
+São instruções que dão funcionalidades ao computador.
+Step-by-step -> passoas que vão fazer o computador trabalahar
+O algorítmo precisa ser intendível pelo humano e pela máquina.
+
+Análise: precisamos definir os dados de entrada e de saída.
+Descrevo o problema por ferramentas, narrativas, fluxogramas...
+conjunto de operações de finitas ações.
+
+Como criar um algorítmo?
+Quais o pontos que precisam ser resolvidos
+Dados fornecidos que precisa ser feito
+Definir como vai ser realizado (processamento)
+Definir os dados de saída
+Utilizar um método de contrução e refinanmento
+Testar e diagnosticar p ver se funciona da forma que é preciso funcinar.
+
+TIPOS:
+Narrativa: utiliza a linguagem natural, diversas interpretações dependendo de como foi escrito.
+
+Fluxograma: utilização de símbolos pré-definidos e é preciso conhecimento prévio dos simbolos e estruturas.
+
+Pseudocódigo: passos a serem seguidos, não é uma linguagm de programação mesmo.
+
+
+ETAPA 7
+CASO CONCEITUAL: PERDIDO
+
+idendificar mecanismos
+recursos comuns
+detalhes mais importantes
+
+
+problema-> sobrevivencia : agua, comida, sobrevivencia
+
+
+
+ETAPA 8:
+CASO CONCEITUAL : SOMA DO INTERVALO
+
+decomposição
+padrão
+
+[x,y]
+y-1) + (x+1)= resultado parcial
+y/2 = total
+
+resultado parcial * total = resultado 
+
+
+
+AULA 2
+
+Lógica de Programação:
+um processo de pensamento atrelado ao conceito de algoritmos e resolução de problemas
+
+O que é lógica?
+Existe para resolução de problemas.
+Trata das formas de pensamento em geral e das operações individuais que visdam à determinação do que é verdadeiro ou não.
+Organização e planejamento das instruções assertivas em um algoritmo a fim de viabilizar a implantação de um programa.
+
+
+Tecnicas de Lógica de Programação:
+
+Linear -> modelo tradicional. Execução sequenciada de resolução de problemas. Recursos limitados. Unica dimensão.
+
+Estruturada -> organização, disposição e ordem dos elementos essenciais que compõem um corpo(concreto ou abstrato). Escrita - Entendimento - Validação - Manutenção
+
+Modular -> partes independentes controladas por um conjunto de regras. Dados de entrada - processo de transformação - dados de saída.
+
+
+AULA 3:
+FUNDAMENTOS DE ALGORÍTMOS
+
+Qual a função do computador?
+processa dados e instruções que são passados para ele.
+
+
+Tipo de dados:
+Numéricos - reais(possuem casas decimais) e inteiros(sem casas decimais)
+Caracteres: símbolos que podem ser convertidos para um valor numérico
+Lógico: verdadeiro(1) e falso(0)
+
+
+Variável: é um tipo de estrutura mutável que pode ser mudado o seu valor, pode ser sobrecria, pode mudar seu vcalo, instável.
+Pode assumir qualquer um dos valores de um determinado conjunto de valores.
+
+a-b=d a+b=c
+
+Ela vai indentificar determinado dado e seu tipo.
+
+
+Constante: inalterável, que não muda, aquilo que é fixo ou estável, invariável.
+
+
+INSTRUÇÕES PRIMITIVAS:
+Vão determinar as ações emcima dos nossos dados, geralmente calculos matemáticos.
+
++ - * / 
+
+Instruções são linguagem de palavras-chave de uma determianda programação que tem por finalidade comandar um computador que irá tratar esses dados.
+
+CONDICIONAIS E OPERADORES:
+
+Condição ->  estado de uma pessoa ou coisa.
+Condicional ->  expressão de condição
+
+operadores relacionais: >, <, <=, >=, ==, !=
+
+condicional simpes(se), composta(se, senão), encadeado(se, se, se, senão)
+
+Operadores Lógicos:
+e &&, ou ||, não !  
+
+
+
+ETAPA 4
+ESTRUTURAS DE REPETIÇÃO:
+
+É usado para quando uma instrução precisa ser repetida durante um código seguido por parâmetro, contendo condições de parada para que não seja um loop infinito.
+
+Enquanto: início, numeros de repetições indefinidas
+Ex: enquanto grama tiver alta passe o cortador de grama.
+
+grama = falso
+ enquanto(gramma==falso){
+instrução de cortar grama
+atualiza grama
+}fim
+
+Repita: final, numero de repetições indefinidas
+ex: Repita até encontrar artigo
+
+Para..de..até: início, numero de repetições definidas
+ex: vá de um até 10 somando mais um.
+
+É possível usar um laço de repetição dentro de outra estrura de condição.
+
+
+ETAPA 5
+VETORES E MATRIZES:
+Um vetor é caracterizado dimensionada com tamanho pré-fixado.
+Pode ser um container, matriz unidimensional.
+
+Matriz é uma tablea organizada em linhas de colunas nXm (n vertical e m horizontal)
+
+
+notas11=10
+notas21=5
+
+notas12=7
+notas22=8
+
+___________________
+
+notas_aluno1=[10,5]
+notas_aluno2=[7,8]
+
+___________________
+
+notas_alunos=[10,5,7,8]
+
+
+
+ETAPA 6
+FUNÇÕES:
+subalgoritmo,metodo, sub-função
+Similar ao conceito de função matemática.
+A partir de um argumento que recebe ela retorna um valor. 
+São blocos de instruções que realizam tarefas específicas.
+Origina-se da decomposição do problema, modularização.
+
+Código mais claro e é possível usar varias vezes de maneiras diferentes durante o programa.
+Identificados por nomes e parâmetros(assinatura da função)
+
+Definição
+Nome
+Invocação
+Variável local ->  destruídas ao encerrar a função
+
+
+ETAPA 7
+INSTRUÇÕES DE ENTRADA/SAÍDA
+
+Entrada: Consiste na inserção e recebimento de dados do mundo real por meio de alguma interface. 
+
+Saída: Consiste na impressão de dados do mundo abstrato, digital por meio de ação de alguma interface
+
+Existem dois tipos de saída: programada(pode ser condicional ou não) e por interrupção(definida pelos periféricos)
+
+
+
+AULA 4
+
+LINGUAGEM DE PROGRAMAÇÃO
+
+Assembly - primeira linguagem de máquina
+primeiras linguagens anos 50 : cobol, fortran
+entre 60 e 70: C, prolog
+
+
+COMO O COMPUTADOR ENTENDE A LINGUAGEM?
+
+O codigo fonte é interpretado pela máquina, è um amontoado de palavras senão for possível que o computador entenda.
+
+Copilador: executa a análise do programa e traduz o programa de alto nível e leva a um código de baixo nível. 
+
+Tradução/Compilação: geração do programa objeto e executa o programa objeto (mais rápida e gera problemas menores)
+
+Interpretação: programa fonte é executado diretamente (mais lento, mais flexibilidade)
+
+CARACTERÍSTICAS DE UM PROGRAMA:
+
+Legibilidade:
+Facilidade de leitura, coerÊncia nas instruções, compreensçao, definição adequada das estruturas.
+
+Redigibilidade:
+Facilidade de escrita de código, coerência nas instruções, simplicidade da escrita, suporte à abstração, reuso do código, expressividade.
+
+Confiabilidade:
+Faz o que foi programado para fazer, verificações de tipos, tratações de erros, uso de ponteiros, compatibilidade entre compiladores.
+
+Custo:
+análise de impacto, treinamento, codificação, compilação, execução, infra-estrutura.
+
+Atualizações, uso para IA, disponibilidade de ferramentas, comunidade ativa, adoção pelo mercado.
+
+
+ANÁLISES DE CÓDIGO:
+
+Léxica: 
+Particionar(agrupar os tokens), classificar(identificadores, palavras reservadas, números, strings) e eliminar(caracteres de espaçoes em branco, comentários).
+
+Sintaxe:
+Componente que interliga os constituintes da sentença atribuindo-lhes uma estrutura. Depende da linguangem de programação utilizada.
+
+Semântica:
+È o estudo do significado. Incide sobre a relação entre os significantes: palavras, frases, sinais e símbolos. Lógica do programa.
+
+PARADIGMAS DE PROGRAMAÇÃO:
+
+O que é um paradigma?
+Forma de resolução de problemas com diretrizes e limitações especpificas de cada aradigma.
+
+Procedural: chamadas sucessivas e procedimentos separados
+
+Funcionais: intruções baseadas emm funções
+
+Destribuida: Executadas de forma independente
+
+Estruturado: Estrutura de blocos alinhados. SequÊncia, decisão interação, executados em sequências. Teste lógico, finções, laços...
+USADO:problemas simples e diretos, aprender programação (Linguagem C)
+
+POO: Análogo ao mundo real, desea a programa em relação aos objetos e suas iterações.
+Um objeto é descrito por características específicas, comportamentos e estado.
+Possibilida o reuso do código.
+
+CANETA-> 
+O que eu tenho? (atributos)
+ cor, modelo, tampo, corpo, ponta.
+
+O que sou capaz de fazer? (métodos)
+escrever, desenhar, pintar, riscar, destampar
+
+Como uso? (estados)
+Tampada, destampada, em uso
+
+
+HERANÇA: classe filha herda carcterísta de uma classe mãe, mas pode ter atributos e métodos dela, pode sobrescrever métodos herdados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
