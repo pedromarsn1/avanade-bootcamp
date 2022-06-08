@@ -1,0 +1,31 @@
+Document Object Model -> é o padrão de como acessar elementos HTML de uma página web
+
+DOM vs BOM -> BOM(Browser Object Model): tudo que está dentro do objeto window
+
+MANIPULANDO O DOM
+
+Conseguimos manipular todos os elementos HTML em javascript a partir do DOM, pela classe, id e tags.
+
+document.getElementById('titulo');
+document.getElementByTagName('li'); retorna array
+document.getElementByClassName('textos'); retorna array
+document.querySelectorAll('.primeira-classe .segunda-classe'); retorna array
+
+document.createElement(element) -novo elemento HTML
+document.removeChild(element)- remove elemento
+document.appendChild(element)- adiciona um elemento
+document.replaceChild(new,old)- substitui um elemento
+
+
+TRABALHANDO COM ESTILOS
+
+Element.classList -> todo elemento tem uma propriedade, aqui representa a lista de classes.
+
+EVENTOS 
+qualquer tipo de ação que o usuário faça na página da web
+
+mouseover, mouseout,click, dbclick(clique duplo),change,load,  
+
+const botao = document.getElementById("meuBotao")
+botao.addEventListener("click", outraFuncao)
+
