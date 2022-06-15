@@ -1,0 +1,97 @@
+HISTÓRIA E CONCEITOS
+- framework baseado em React, que possibilita desenvolvimento multiplataforma usando Javascript
+- lançada pelo Facebook em 2015
+- Sintaxe Javascript que é interpretado pelo react native e transforma em nativo IOS ou Android
+
+CARACTERÍSTICAS
+- base de conhecimentos compartilhada entre desenvolvimento mobile e front-end
+- o código desenvolvido é convertido para a linguagem nativa do sistema operacional
+- conseguimos desenvolver aplicações para android e IOS utilizando um código único
+-multiplattaforma de sistemas operacionais
+- acessar inteface e os recursos nativos do android e IOS utilizando Javascript 
+
+JSX - coloca um componente html p retornar em javascript
+
+ES6- nome oficial do javascript.
+ECMA é o orgão responsável pelo cuidado e padronização do javascript
+
+Arrow Functions - 
+function Soma(n1,n2){
+	return n1+n2
+}
+
+
+Destructing Assignment-
+const client{
+nome: pablo,
+idade: 23,
+cidade: SP
+}
+
+const {nome,cidade} = cliente
+
+console.log(nome,cidade)
+
+
+CommonJS VS Import
+
+import * as A from './A.js';
+
+const foo = A.foo;
+const baz = A.baz;
+
+
+ESTILOS E COMPONENTES
+
+FLEXBOX: projetado para fornecer um layour consistene em diferentes tamanhos de tela. oparações relacionadas a dpois eixos principal(Main Axis) e eixo transversal(Cross Axis)
+
+(se move na horizontal)
+- row
+- row-reverse
+
+(se move na vertical)
+- column
+- column-reverse
+
+coseguimos colocar peso ex:( flex 1 (menor) flex 2(pouco maior) flex 3(maior))
+
+FLEX-DIRECTION: ROW
+flex-start
+center
+flex-end
+
+FLEX-DIRECTION: COLUMN
+flex-start
+center
+flex-end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
